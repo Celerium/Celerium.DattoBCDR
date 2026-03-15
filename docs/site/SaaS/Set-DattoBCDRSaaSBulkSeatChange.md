@@ -194,5 +194,5 @@ https://saasprotection.datto.com/help/Google/Content/Other_Administrative_Tasks/
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html)
+[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html)
 

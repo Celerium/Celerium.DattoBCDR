@@ -19,7 +19,7 @@ function Get-DattoBCDRSaaSBackupStats {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

@@ -61,5 +61,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html)
+[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html)
 

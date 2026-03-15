@@ -85,5 +85,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRApplication.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRApplication.html)
+[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSApplication.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSApplication.html)
 

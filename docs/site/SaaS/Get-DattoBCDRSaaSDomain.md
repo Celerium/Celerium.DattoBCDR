@@ -47,5 +47,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRDomain.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRDomain.html)
+[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSDomain.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSDomain.html)
 

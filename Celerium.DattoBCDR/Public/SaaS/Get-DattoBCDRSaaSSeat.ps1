@@ -25,7 +25,7 @@ function Get-DattoBCDRSaaSSeat {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]

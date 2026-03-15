@@ -3390,12 +3390,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSApplication.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSApplication.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRApplication.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRApplication.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3460,12 +3456,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3505,12 +3497,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSDomain.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSDomain.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRDomain.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRDomain.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3601,12 +3589,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -3841,12 +3825,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html</maml:linkText>
         <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>

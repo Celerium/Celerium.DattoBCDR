@@ -69,7 +69,7 @@ function Set-DattoBCDRSaaSBulkSeatChange {
         https://saasprotection.datto.com/help/Google/Content/Other_Administrative_Tasks/using-rest-api-saasP-GW.htm?Highlight=seats
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html
 
 #>
 

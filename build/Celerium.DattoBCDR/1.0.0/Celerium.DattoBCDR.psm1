@@ -2501,7 +2501,7 @@ function Get-DattoBCDRSaaSApplication {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRApplication.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSApplication.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -2572,7 +2572,7 @@ function Get-DattoBCDRSaaSBackupStats {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRBackupStats.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSBackupStats.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -2627,7 +2627,7 @@ function Get-DattoBCDRSaaSDomain {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRDomain.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSDomain.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -2682,7 +2682,7 @@ function Get-DattoBCDRSaaSSeat {
         N\A
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -2803,7 +2803,7 @@ function Set-DattoBCDRSaaSBulkSeatChange {
         https://saasprotection.datto.com/help/Google/Content/Other_Administrative_Tasks/using-rest-api-saasP-GW.htm?Highlight=seats
 
     .LINK
-        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRBulkSeatChange.html
+        https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Set-DattoBCDRSaaSBulkSeatChange.html
 
 #>
 

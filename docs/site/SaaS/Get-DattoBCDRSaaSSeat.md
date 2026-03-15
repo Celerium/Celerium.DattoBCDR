@@ -79,5 +79,5 @@ N\A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSeat.html)
+[https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html](https://celerium.github.io/Celerium.DattoBCDR/site/SaaS/Get-DattoBCDRSaaSSeat.html)
 
