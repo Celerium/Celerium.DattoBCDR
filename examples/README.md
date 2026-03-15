@@ -2,7 +2,7 @@
   <br>
   <a href="http://Celerium.org"><img src="https://raw.githubusercontent.com/Celerium/Celerium.DattoBCDR/main/.github/images/Celerium_PoSHGallery_Celerium.DattoBCDR.png" alt="_CeleriumDemo" width="200"></a>
   <br>
-  Celerium_Celerium.DattoBCDR_Examples
+  Celerium.DattoBCDR_Examples
   <br>
 </h1>
 
