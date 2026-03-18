@@ -49,7 +49,7 @@ function Get-DattoBCDRAPIKey {
 
                     [PSCustomObject]@{
                         PublicKey = $DattoBCDRModuleApiKey
-                        SecretKey = ([System.Runtime.InteropServices.Marshal]::PtrToStringAuto($ApiKey)).ToString()
+                        SecretKey = ([System.Runtime.InteropServices.Marshal]::PtrToStringBSTR($ApiKey)).ToString()
                     }
                 }
                 else {
