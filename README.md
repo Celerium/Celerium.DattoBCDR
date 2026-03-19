@@ -58,6 +58,8 @@ The [Celerium.DattoBCDR](https://www.powershellgallery.com/packages/Celerium.Dat
 
 - :book: Project documentation can be found on [Github Pages](https://celerium.github.io/Celerium.DattoBCDR/)
 - :book: Datto's REST API documentation on their management portal [here](https://portal.dattobackup.com/integrations/api) *[ Requires a login ]*.
+- OpenAPI Spec in [`json` format](<https://api.datto.com/v1/api/spec>) *[ No Auth required ]*.
+  - OpenAPI Spec in **raw** [`yaml` format](https://api.datto.com/v1/api/spec/raw) *[ No Auth required ]*.
 
 Datto features a REST API that makes use of common HTTP request methods. In order to maintain PowerShell best practices, only approved verbs are used.
 
@@ -138,6 +140,8 @@ Calling an API resource is as simple as running `Get-DattoBCDR<resourceName>`
 | DTC       | /dtc/assets                                                    | GET                            | Get-DattoBCDRDTCAsset              |
 | DTC       | /dtc/rmm-templates                                             | GET                            | Get-DattoBCDRDTCRMMTemplate        |
 | DTC       | /dtc/storage-pool                                              | GET                            | Get-DattoBCDRDTCStoragePool        |
+| OpenAPI   | /api/spec                                                      | GET                            | Get-DattoBCDRAPISpec               |
+| OpenAPI   | /api/spec/raw                                                  | GET                            | Get-DattoBCDRAPISpec               |
 | Reporting | /report/activity-log                                           | GET                            | Get-DattoBCDRActivityLog           |
 | SaaS      | /saas/{SaasCustomerId}/{externalSubscriptionId}/bulkSeatChange | PUT                            | Set-DattoBCDRSaaSBulkSeatChange    |
 | SaaS      | /saas/{sassCustomerId}/detailedBackupStats                     | GET                            | Get-DattoBCDRSaaSBackupStats       |

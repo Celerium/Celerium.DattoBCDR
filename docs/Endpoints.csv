@@ -1,4 +1,6 @@
 ﻿Category,EndpointUri,Method,Function,Examples,Complete,Notes
+API,/api/spec,GET,Get-DattoBCDRAPISpec,YES,
+API,/api/spec/raw,GET,Get-DattoBCDRAPISpec,YES,
 BCDR,/bcdr/agent,GET,Get-DattoBCDRAgent,,YES,
 BCDR,/bcdr/device,GET,Get-DattoBCDRDevice,,YES,
 BCDR,/bcdr/device/{serialNumber},GET,Get-DattoBCDRDevice,,YES,
