@@ -13,6 +13,8 @@ function Get-DattoBCDRSaaSSeat {
     .PARAMETER SeatType
         Type of seat to return
 
+        This is a case-sensitive value
+
         Allowed values:
         'User', 'Site', 'TeamSite', 'SharedMailbox', 'Team', 'SharedDrive'
 
@@ -20,6 +22,14 @@ function Get-DattoBCDRSaaSSeat {
         Get-DattoBCDRSeat -SaasCustomerId "123456"
 
         Gets the Datto SaaS protection seats from the define customer id
+
+    .EXAMPLE
+        Get-DattoSeat -saasCustomerId "123456" -seatType "User"
+        Gets the Datto SaaS protection seats from the define customer id filtered to 'User' seats
+
+    .EXAMPLE
+        Get-DattoSeat -saasCustomerId "123456" -seatType "User", "SharedMailbox"
+        Gets the Datto SaaS protection seats from the define customer id filtered to 'User' & 'SharedMailbox' seats
 
     .NOTES
         N\A
@@ -36,7 +46,7 @@ function Get-DattoBCDRSaaSSeat {
 
         [Parameter(Mandatory = $false, ParameterSetName = 'Index')]
         [ValidateSet( 'User', 'SharedMailbox', 'SharedDrive', 'Site', 'TeamSite', 'Team', IgnoreCase = $False)]
-        [string]$SeatType
+        [string[]]$SeatType
     )
 
     begin {
@@ -58,7 +68,7 @@ function Get-DattoBCDRSaaSSeat {
         #Region     [ Parameter Translation ]
 
         if ($PSCmdlet.ParameterSetName -eq 'Index') {
-            if ($SeatType) { $UriParameters['seatType'] = $SeatType }
+            if ($SeatType) { $UriParameters['seatType'] = $SeatType -join ',' }
         }
 
         #EndRegion  [ Parameter Translation ]
